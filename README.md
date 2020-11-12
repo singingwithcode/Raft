@@ -1,5 +1,5 @@
 # Raft
-Fault Tolerant Server
+Fault Tolerance System
 
 TO RUN:
 “sbt run” at root folder
